@@ -246,7 +246,7 @@ There are different wrapper methods such as Backward Elimination, Forward Select
 
 Embedded methods are iterative in a sense that takes care of each iteration of the model training process and carefully extract those features which contribute the most to the training for a particular iteration. Regularization methods are the most commonly used embedded methods which penalize a feature given a coefficient threshold.
 
-![output](o18.png)
+![output](o17.png)
 
 ## RESULT:
 
